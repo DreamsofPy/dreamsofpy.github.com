@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>DreamsOfPy</title>
+    <subtitle>Small dreams, big smile</subtitle>
+    <link rel="alternate" href="/" />
+    <link rel="self" href="/feed.xml" type="application/atom+xml" />
+    <id>/</id>
+    <updated>2013-07-31T18:11:17Z</updated>
+    
+    <author>
+        <name>DreamsOfPy</name>
+        
+        <uri>/</uri>
+    </author>
+    
+    
+</feed>
